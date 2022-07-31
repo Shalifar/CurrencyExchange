@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/CurrencyExchangeApp/.vs
+/CurrencyExchangeApp/CurrencyExchangeApp/bin/Debug/net6.0
+/CurrencyExchangeApp/CurrencyExchangeApp/obj
+/CurrencyExchangeApp/CurrencyExchangeAppTests/obj
+/CurrencyExchangeApp/CurrencyExchangeAppTests/bin
